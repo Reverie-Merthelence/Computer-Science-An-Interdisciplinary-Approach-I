@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="106" />
+    <option name="y" value="23" />
+    <option name="width" value="938" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectId" id="29j7TsuW8HHG8cu2XHjX7HoBJWT" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <showLibraryContents PackagesPane="false" />
+      <autoscrollToSource PackagesPane="true" ProjectPane="true" />
+      <autoscrollFromSource PackagesPane="true" ProjectPane="true" />
+      <sortByType Scope="true" PackagesPane="true" ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/gaoko/OneDrive/Computer Science-An Interdisciplinary Approach I/Programming in Java-Assignment"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="ActivationFunction" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ActivationFunction" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="Double.MAX_VALUE" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AudioCollage" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="AudioCollage" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BandMatrix" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BandMatrix" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="8 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bar" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bar" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BarChartRacer" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BarChartRacer" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="cities.txt 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Birthday" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Birthday" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="1 1000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CMYKtoRGB" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CMYKtoRGB" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="0.0 0.4392156862745098 1.0 0.0 " />
+      <method v="2" />
+    </configuration>
+    <configuration name="Checkerboard" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Checkerboard" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Clock" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Clock" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ColorHSB" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ColorHSB" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="25 84 97" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DiscreteDistribution" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DiscreteDistribution" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="100 301 176 125 97 79 67 58 51 46" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Divisors" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Divisors" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="1440 408" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GeneralizedHarmonic" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GeneralizedHarmonic" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3 1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GreatCircle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GreatCircle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="60.0 15.0 120.0 105.0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloGoodbye" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloGoodbye" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="123 435" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Huntingtons" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Huntingtons" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="chromosome4-healthy.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Inversions" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Inversions" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="7 20" />
+      <method v="2" />
+    </configuration>
+    <configuration name="KernelFilter" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="KernelFilter" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaximumSquareSubmatrix" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MaximumSquareSubmatrix" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Minesweeper" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Minesweeper" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="10 8 30" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ramanujan" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Ramanujan" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="9223261564912520489" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomWalker" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomWalker" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RandomWalkers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RandomWalkers" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="160 100000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RecursiveSquares" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RecursiveSquares" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RevesPuzzle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RevesPuzzle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RightTriangle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RightTriangle" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="-3 4 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ShannonEntropy" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShannonEntropy" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="6" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Computer Science" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ThueMorse" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ThueMorse" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrinomialBrute" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TrinomialBrute" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="4 3" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrinomialDP" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TrinomialDP" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="40 0" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="106" y="23" width="938" height="765" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21428572" />
+      <window_info id="Structure" order="1" show_stripe_button="false" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" weight="0.32904148" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32825485" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
